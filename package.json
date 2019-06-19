@@ -3,7 +3,7 @@
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Kishore Kumar Govindaradjou",
   "dependencies": {
     "gatsby": "^2.9.9",
     "gatsby-image": "^2.1.4",
@@ -35,9 +35,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/kishorekumar080297/ecommerce-gatsby-react.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/kishorekumar080297/ecommerce-gatsby-react/issues"
   }
 }
