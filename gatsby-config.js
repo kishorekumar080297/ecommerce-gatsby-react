@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `KartBayOn`,
+    description: `This repo holds e-commerce webapp kartbayon developed using gatsby.`,
     author: `@gatsbyjs`,
   },
   plugins: [
