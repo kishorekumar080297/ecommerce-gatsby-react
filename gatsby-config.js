@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `KartBayOn`,
-    description: `This repo holds e-commerce webapp kartbayon developed using gatsby.`,
+    title: `FoneBayOn`,
+    description: `This repo holds e-commerce webapp fonebayon developed using gatsby.`,
     author: `@gatsbyjs`,
   },
   plugins: [
