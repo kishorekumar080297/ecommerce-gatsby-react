@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `FoneBayOn`,
     description: `This repo holds e-commerce webapp fonebayon developed using gatsby.`,
-    author: `@gatsbyjs`,
+    author: `Kishore Kumar Govindaradjou`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -24,7 +24,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/FBO-logo.png`, // This path is relative to the root of the site.
+        icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
