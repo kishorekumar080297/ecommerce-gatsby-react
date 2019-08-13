@@ -4,16 +4,18 @@ import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import HeroSection from "../components/reusable/HeroSection"
+import InfoBlock from "../components/reusable/InfoBlock"
 
 const IndexPage = ({data}) => (
   <Layout>
     <SEO title="Home" />
     <HeroSection 
-    img = {data.img.childImageSharp.fluid}
-    title = "FoneBayOn"
-    subtitle = "The Smartphone Ocean"
-    heroClass = "hero-background"
+      img = {data.img.childImageSharp.fluid}
+      title = "FoneBayOn"
+      subtitle = "The Smartphone Ocean"
+      heroClass = "hero-background"
     />
+    <InfoBlock heading="About Us" />
   </Layout>
 )
 
