@@ -1,8 +1,9 @@
 import React from 'react'
+
 import BackgroundImage from 'gatsby-background-image'
 
 
-export default function HeroSection(img, title, subtitle, heroClass) {
+export default function HeroSection({img, title, subtitle, heroClass}) {
     return (
         <BackgroundImage
             className={heroClass}
