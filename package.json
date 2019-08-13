@@ -6,6 +6,7 @@
   "author": "Kishore Kumar Govindaradjou",
   "dependencies": {
     "gatsby": "^2.9.9",
+    "gatsby-background-image": "^0.8.3",
     "gatsby-image": "^2.1.4",
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.3",
