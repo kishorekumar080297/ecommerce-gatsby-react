@@ -1,9 +1,9 @@
 import React from 'react'
 import Heading from './Heading'
 import logo from "../../images/heromain1.png"
-import {link} from 'gatsby'
+import { Link } from "gatsby"
 
-export default function DualInfoBlock({heading}) {
+export default function DualInfoBlock({heading, img}) {
     return (
         <section className="my-4 py-4 bg-theme">
             <div className="container">
@@ -16,13 +16,13 @@ export default function DualInfoBlock({heading}) {
                     </div>  
                     <div className="col-4">
                          <div className="card">
-                            <img className="card-img-top" src={logo} alt="Samsung Galaxy S10"/>
+                            <img className="card-img-top" src={img} alt="Samsung Galaxy S10"/>
                             <div className="card-body">
                                 <h5 className="card-title">Just Click Photos</h5>
                                 <p className="card-text">
                                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde sint enim quibusdam illum eos, nam officia error, dignissimos, corporis libero a velit ipsum necessitatibus. Tempore beatae cumque alias? Dolorum, libero.
                                 </p>
-                                <a href="#" className="btn btn-primary">Go somewhere</a>
+                                <Link to="/" className="btn btn-warning btn-block">{heading}</Link>
                             </div>
                         </div>
                     </div>
