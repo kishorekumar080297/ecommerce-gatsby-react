@@ -13,7 +13,7 @@ export default function HeroSection({img, title, subtitle, heroClass}) {
                 {title}
             </h1>
             <div>
-                <h4 class="text-warning">{subtitle}</h4>
+                <h4 className="text-warning">{subtitle}</h4>
             </div>
         </BackgroundImage>
     )
