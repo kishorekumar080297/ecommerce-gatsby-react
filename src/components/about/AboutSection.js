@@ -6,7 +6,7 @@ export default function AboutSection() {
             <div className="col-10 col-sm-10 mx-auto">
             <div class="card-group">
             <div class="card">
-                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_400x400.jpg" alt="Card image cap"/>
+                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1094044059822448640/BvJ8T3jO_400x400.jpg" alt="Marques Brownlee"/>
                 <div class="card-body">
                 <h5 class="card-title">Marques Brownlee</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -14,7 +14,7 @@ export default function AboutSection() {
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1131887328107143168/Mu67P1Tw_400x400.png" alt="Card image cap"/>
+                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/1131887328107143168/Mu67P1Tw_400x400.png" alt="Mrwhosetheboss"/>
                 <div class="card-body">
                 <h5 class="card-title">Mrwhosetheboss</h5>
                 <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -22,7 +22,7 @@ export default function AboutSection() {
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/554607518035349504/x7E_Pa10_400x400.jpeg" alt="Card image cap"/>
+                <img class="card-img-top" src="https://pbs.twimg.com/profile_images/554607518035349504/x7E_Pa10_400x400.jpeg" alt="Dave 2D"/>
                 <div class="card-body">
                 <h5 class="card-title">Dave Lee</h5>
                 <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
